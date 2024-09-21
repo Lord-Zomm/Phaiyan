@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Phaiyan/precache-manifest.365b9a2b75e5ddbd56a98cdd2654ed93.js"
+  "/Phaiyan/precache-manifest.f9c87a4e3da58e4cb361ced05e161525.js"
 );
 
 self.addEventListener('message', (event) => {
