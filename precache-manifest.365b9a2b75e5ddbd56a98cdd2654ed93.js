@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f27de6d0d5738ad6d0277c8b0ef488e5",
+    "revision": "c6d5ac9518e12008295e61efccf2d0c8",
     "url": "/Phaiyan/index.html"
   },
   {
-    "revision": "fc7b359e8584baaf8bce",
+    "revision": "ccc4c99cba806781ac22",
     "url": "/Phaiyan/static/css/main.7fcea933.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Phaiyan/static/js/2.d7a828e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fc7b359e8584baaf8bce",
-    "url": "/Phaiyan/static/js/main.7c158a13.chunk.js"
+    "revision": "ccc4c99cba806781ac22",
+    "url": "/Phaiyan/static/js/main.8bce644c.chunk.js"
   },
   {
     "revision": "9a4d134f7eb2f3fb2e13",
